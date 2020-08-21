@@ -1,0 +1,165 @@
+#banner-content {
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: 100vw;
+    padding: 14%;
+    background-image: url("https://images.unsplash.com/photo-1533414417583-f0ab99151186?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-size: 100%;
+    background-position: center;
+}
+
+#banner-content h1 {
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    word-spacing: 4px;
+    font-size: 60px;
+}
+
+#banner-content a {
+    background-color: #e96147;
+    border-radius: 0;
+    margin-right: 2px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#banner-content a:hover {
+    background-color: white;
+    color: black !important;
+    transition: ease-in 0.4s;
+}
+
+#banner-content p {
+    margin-bottom: 15px;
+    font-family: Verdana;
+}
+
+.about-text {
+    margin: /* Top & Bottom */ auto /* Left & Right */ 25px;
+}
+
+.about{
+  background-color: white;
+}
+#about-head {
+  padding: 3rem;
+    margin: auto 25px;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+.about-text p {
+    color: grey;
+}
+
+#father-and-a-child {
+    margin: 15px auto;
+    margin-left: 15%;
+    height: 23em;
+    border: solid 6px orange;
+
+}
+
+#behind-the-scene {
+    margin: 30px auto;
+    font-size: 1.25rem;
+    color: black;
+}
+
+#man-and-chili{
+  margin: 15px auto;
+    height: 23em;
+    border: solid 6px orange;
+}
+
+#menu-title{
+  padding: 3rem;
+  text-align: center;
+  font-family: 'Courier New';
+  font-weight: bold;
+  font-size: 60px;
+}
+#menu{
+  background: lavender;
+}
+
+.menu-items-pics{
+  margin: 10px;
+  width: 20vw;
+
+}
+.menu-items-captions{
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Courier New';
+  font-weight: bold;
+}
+#prices h1{
+  font: bolder 30px 'Courier New';
+  text-align: center;
+}
+#prices td{
+  font-size: 20px;
+  font-family: 'Courier New';
+}
+#catering{
+  background-color: white;
+
+}
+#catering h1{
+  padding: 3rem;
+  font-size: 60px;
+  font-family: 'Courier New';
+  font-weight: bold;
+}
+#catering{
+  font-family: 'Courier New';
+  text-align: center;
+  font-size: 30px;
+}
+#prices-catering{
+  margin: 10px;
+  width: 20vw;
+}
+
+#reviews{
+  font-family: 'Courier New';
+  font-weight: bold;
+  text-align: center;
+  background-color: lavender;
+
+}
+#reviews h1{
+  padding: 3rem;
+  font-size: 60px;
+}
+
+#reviews img{
+  height: 15rem;
+  margin: 10px;
+  border: orange 4px solid;
+}
+#contact{
+  background-color: black;
+  color: white;
+  font-family: 'Georgia';
+  text-align: center;
+}
+#contact h1{
+  font-size: 60px;
+  font-family: 'Courier New';
+  font-weight: bold;
+  
+}
+#contact-table{
+   background-color: black;
+  color: white;
+  font-family: 'Georgia';
+  text-align: center;
+}
